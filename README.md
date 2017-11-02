@@ -1,5 +1,5 @@
 # docs
-## Manual Installation
+### Manual Installation
 In order to manually install MkDocs you'll need Python installed on your system, as well as the Python package manager, pip. You can check if you have these already installed from the command line:
 ```
 $ python --version
