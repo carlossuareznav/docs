@@ -7,7 +7,7 @@ Python 2.7.2
 $ pip --version
 pip 1.5.2
 
-##Installing MkDocs
+## Installing MkDocs
 Install the mkdocs package using pip:
 
 pip install mkdocs
