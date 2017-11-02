@@ -1,0 +1,9 @@
+site_name: TMultimodal
+
+pages:
+    - Home: index.md
+    - Conceptos: conceptos.md
+    - Incoterms: incoterm.md
+    - Importaciòn: importacion.md
+    - Exportacion: exportacion.md
+theme: 'material'
