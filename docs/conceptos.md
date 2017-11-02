@@ -163,6 +163,11 @@
         <td>Declaraciòn del peso bruto de los contenedores ante la terminal porturia</td>
         <td></td>
     </tr>
+    <tr>
+        <td>PO</td>
+        <td>Identificador sugerido por el cliente</td>
+        <td>KRL4332PER</td>
+    </tr>
 </table>
 
 ### Tabla de codigos Aeropuertos
