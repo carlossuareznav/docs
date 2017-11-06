@@ -259,17 +259,17 @@
 </table>
 
 ### Contenedores
-<img src="/img/contenedores.png">
-<img src="/img/containers.jpg" id="containers" data-zoom-image="/img/containers_large.jpg">
+<img src="img/contenedores.png">
+<img src="img/containers.jpg" id="containers" data-zoom-image="img/containers_large.jpg">
 
 ### Conocimiento de embarque
-<img src="/img/conocimiento_embarque.png">
+<img src="img/conocimiento_embarque.png">
 
 ### Rutas de embarques
-<img src="/img/routes.jpg">
+<img src="img/routes.jpg">
 
 ### Tarifas por distancia
-<img src="/img/distances.jpg" id="distances" data-zoom-image="/img/distances_large.jpg">
+<img src="img/distances.jpg" id="distances" data-zoom-image="img/distances_large.jpg">
 
 
 <script src='js/jquery-1.8.3.min.js'></script>
