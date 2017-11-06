@@ -6,4 +6,4 @@ pages:
     - Incoterms: incoterm.md
     - Importaciòn: importacion.md
     - Exportacion: exportacion.md
-theme: 'material'
+#theme: 'custom_theme'
