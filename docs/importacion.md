@@ -32,12 +32,12 @@ Los productos pueden o no, ser transportados en camión o en tren a un siguiente
 
 ## Paso 1.
 
-<img src="/img/reserve.gif">
+<img src="img/reserve.gif">
 
 ## Paso 2.
 
-<img src="/img/process.gif">
+<img src="img/process.gif">
 
 ## Proceso general.
 
-<img src="/img/TM.gif">
+<img src="img/TM.gif">
