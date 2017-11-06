@@ -260,7 +260,7 @@
 
 ### Contenedores
 <img src="img/contenedores.png">
-<img src="img/containers.jpg" id="containers" data-zoom-image="img/containers_large.jpg">
+<img src="img/equipment.jpg" id="containers" data-zoom-image="img/equipment_large.jpg">
 
 ### Conocimiento de embarque
 <img src="img/conocimiento_embarque.png">
